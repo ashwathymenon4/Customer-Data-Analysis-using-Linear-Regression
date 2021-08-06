@@ -28,4 +28,10 @@ There are two ways to think about this: Develop the Website to catch up to the p
 * Anaconda
 * Jupyter Notebook
 
+## Libraries
+* Pandas
+* NumPy
+* SeaBorn
+* MatPlotLib
+
 
