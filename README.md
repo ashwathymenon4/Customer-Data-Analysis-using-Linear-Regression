@@ -1,4 +1,4 @@
-# Customer-Data-Analysis-using-Linear-Regression
+# Customer-Data-Analysis-using-Linear-Regression (Python for Data Science and Machine Learning BootCamp Udemy)
 The project conducts customer data analysis on website and mobile app usage to determine whether the company should focus their efforts on mobile app experience or their website.
 
 ## Scenario
